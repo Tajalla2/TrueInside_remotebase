@@ -1,4 +1,9 @@
 # TrueInside_remotebase
-Today’s personal care consumers demand more than just performance—they want transparency, safety, and ethical alignment. Yet, most shoppers still lack clear, accessible information about what’s inside the products they use daily.
+TrueInside helps you decode what’s really in your personal care products.
+Using AI, it analyzes ingredients for safety risks, allergy concerns, and religious compatibility like halal—across skincare, haircare, makeup, and more. Just scan your product or ask a question to get clear, unbiased answers.
 
-This AI-powered platform that decodes the complex world of personal care ingredients across skincare, hair care, cosmetics, and fragrances. It empowers users to make smarter, safer, and more aligned decisions by analyzing ingredient safety, allergy risks, ethical sourcing, and religious compliance—including halal status—based on personal values and health profiles.
+# To get started 
+
+1. Create environment using requirements.txt file
+2. Create a config.py file and set open ai and groq api keys
+3. Run the backend using runApp.py file
